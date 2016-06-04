@@ -1,0 +1,22 @@
+{
+	"name": "multispinner",
+	"version": "1.0.0",
+	"homepage": "https://github.com/heronman/jquery-multispinner",
+	"description": "Enhancement for jQuery UI Spinner widget (so, it requires the original Spinner widget)",
+	"main": [
+		"jquery.multispinner.js"
+	],
+	"keywords": [
+		"jquery",
+		"spinner",
+		"multispinner"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
